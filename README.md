@@ -1,6 +1,6 @@
 # Pikachu_lima
 
-![](./imagens/Pikachu.desktop.png)
+![](Pikachu.desktop.png)
 
 ## Projeto
 Site Pikachu
